@@ -30,7 +30,7 @@
                 android:layout_height="fill_parent"
                 android:layout_alignParentTop="true" />
 
-            <com.phptravelsnative.utality.lib.Parallex.CirclePageIndicator
+            <com.ajubia.utality.lib.Parallex.CirclePageIndicator
                 android:id="@+id/indicator"
                 android:layout_width="fill_parent"
                 android:layout_height="wrap_content"

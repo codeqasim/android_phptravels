@@ -3,7 +3,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:layout_margin="10dp"
-    tools:context="com.phptravelsnative.Fragments.Blog">
+    tools:context="com.ajubia.Fragments.Blog">
 
     <ListView
         android:id="@+id/listview"
@@ -12,7 +12,7 @@
         android:scrollbars="none"
         android:adjustViewBounds="true"
         android:background="@color/transparent_black"
-        tools:context="com.phptravelsnative.Fragments.DemoListViewFragment">
+        tools:context="com.ajubia.Fragments.DemoListViewFragment">
 
     </ListView>
 

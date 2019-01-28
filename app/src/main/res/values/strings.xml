@@ -14,6 +14,7 @@
     <string name="offersDescription">Amazing deals arounds you</string>
     <string name="offers">OFFERS</string>
     <string name="ivisa">VISA</string>
+    <string name="packages">PACKAGES</string>
     <string name="bookingDescription">Check Your Bookings</string>
     <string name="account_name">Account</string>
     <string name="login_register">Login/Register</string>

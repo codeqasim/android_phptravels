@@ -3,7 +3,7 @@
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:orientation="horizontal"
-    tools:context="com.phptravelsnative.Fragments.MyBooking">
+    tools:context="com.ajubia.Fragments.MyBooking">
 
 
 

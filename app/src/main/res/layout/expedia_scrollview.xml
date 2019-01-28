@@ -1,4 +1,4 @@
-<com.phptravelsnative.utality.lib.Parallex.NotifyingScrollView
+<com.ajubia.utality.lib.Parallex.NotifyingScrollView
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/scrollview"
@@ -8,7 +8,7 @@
     android:scrollbars="none"
     android:layout_marginLeft="6dp"
     android:layout_marginRight="6dp"
-    tools:context="com.phptravelsnative.Fragments.SecondScrollViewFragment">
+    tools:context="com.ajubia.Fragments.SecondScrollViewFragment">
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -117,4 +117,4 @@
             android:id="@+id/policy"/>
     </LinearLayout>
 
-</com.phptravelsnative.utality.lib.Parallex.NotifyingScrollView>
+</com.ajubia.utality.lib.Parallex.NotifyingScrollView>

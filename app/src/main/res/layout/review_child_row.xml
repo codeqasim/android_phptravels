@@ -1,5 +1,5 @@
 
-<com.phptravelsnative.utality.lib.Parallex.NotifyingScrollView
+<com.ajubia.utality.lib.Parallex.NotifyingScrollView
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/scrollview"
@@ -41,5 +41,5 @@
 
 
     </LinearLayout>
-    </com.phptravelsnative.utality.lib.Parallex.NotifyingScrollView>
+    </com.ajubia.utality.lib.Parallex.NotifyingScrollView>
 

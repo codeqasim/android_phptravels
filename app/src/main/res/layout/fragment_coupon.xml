@@ -5,7 +5,7 @@
     android:layout_marginStart="35dp"
     android:layout_marginEnd="35dp"
     android:orientation="vertical"
-    tools:context="com.phptravelsnative.Fragments.Coupon">
+    tools:context="com.ajubia.Fragments.Coupon">
 
     <TextView
         android:layout_width="wrap_content"

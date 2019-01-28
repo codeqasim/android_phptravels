@@ -6,6 +6,6 @@
     android:scrollbars="none"
     android:adjustViewBounds="true"
     android:background="@color/transparent_black"
-    tools:context="com.phptravelsnative.Fragments.DemoListViewFragment">
+    tools:context="com.ajubia.Fragments.DemoListViewFragment">
 
 </ListView>

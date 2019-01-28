@@ -4,7 +4,7 @@
     android:id="@+id/activity_flight_do_hope"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.phptravelsnative.Activities.WebViewInvoice">
+    tools:context="com.ajubia.Activities.WebViewInvoice">
 
     <WebView
         android:layout_width="match_parent"

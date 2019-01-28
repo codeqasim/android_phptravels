@@ -145,7 +145,7 @@
                 android:layout_height="wrap_content">
 
 
-                <com.phptravelsnative.utality.Views.TourSpinner
+                <com.ajubia.utality.Views.TourSpinner
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="Credit Card"
